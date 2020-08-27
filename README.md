@@ -1,4 +1,4 @@
-# AirtableToDynamo
+# ResizeImages
 
 This is a piece of code I created for the purpose of resizing and saving images to AWS S3 from images Urls.
 
